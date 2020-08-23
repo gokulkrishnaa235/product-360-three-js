@@ -1,0 +1,342 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.1.46",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Light",
+      "rotation": [
+        0.16907575726509094,
+        0.7558803558349609,
+        -0.27217137813568115,
+        0.570947527885437
+      ],
+      "translation": [
+        4.076245307922363,
+        5.903861999511719,
+        -1.0054539442062378
+      ]
+    },
+    {
+      "name": "Camera",
+      "rotation": [
+        0.483536034822464,
+        0.33687159419059753,
+        -0.20870360732078552,
+        0.7804827094078064
+      ],
+      "translation": [
+        7.358891487121582,
+        4.958309173583984,
+        6.925790786743164
+      ]
+    },
+    {
+      "name": "Camera.001",
+      "rotation": [
+        -0.8102388978004456,
+        -0.16335968673229218,
+        -0.259295254945755,
+        0.49959254264831543
+      ],
+      "scale": [
+        0.5489954948425293,
+        0.548995852470398,
+        0.5489959120750427
+      ],
+      "translation": [
+        4.029710292816162,
+        -4.952828407287598,
+        -2.5373425483703613
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "diamond",
+      "rotation": [
+        -0.002771790139377117,
+        0.09584765881299973,
+        0.0013197878142818809,
+        0.9953913688659668
+      ],
+      "scale": [
+        0.09878602623939514,
+        0.0987861379981041,
+        0.0987861230969429
+      ],
+      "translation": [
+        -0.1322193145751953,
+        -0.939298689365387,
+        0.04111902415752411
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "gold",
+      "rotation": [
+        -0.7058080434799194,
+        0.06684131175279617,
+        0.06870777159929276,
+        0.7018877863883972
+      ],
+      "scale": [
+        0.09878602623939514,
+        0.09878616034984589,
+        0.09878616780042648
+      ],
+      "translation": [
+        -0.1322193145751953,
+        -0.939298689365387,
+        0.04111902415752411
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "silver",
+      "rotation": [
+        -0.002771790139377117,
+        0.09584765881299973,
+        0.0013197878142818809,
+        0.9953913688659668
+      ],
+      "scale": [
+        0.09878602623939514,
+        0.0987861379981041,
+        0.0987861230969429
+      ],
+      "translation": [
+        -0.1322193145751953,
+        -0.939298689365387,
+        0.04111902415752411
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Diamond_Round.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "object_314.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7
+        }
+      ]
+    },
+    {
+      "name": "object_308.000",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 9314,
+      "max": [
+        0.8705838322639465,
+        4.214849948883057,
+        5.59290075302124
+      ],
+      "min": [
+        -1.5261245965957642,
+        -5.654841423034668,
+        4.028672218322754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9314,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9314,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 9540,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 11241,
+      "max": [
+        4.2778520584106445,
+        5.731736660003662,
+        8.090402603149414
+      ],
+      "min": [
+        -4.277058124542236,
+        -5.729719161987305,
+        -8.091580390930176
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 11241,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 11241,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 50694,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 18583,
+      "max": [
+        0.8838818073272705,
+        4.314306735992432,
+        5.583183288574219
+      ],
+      "min": [
+        -1.5749797821044922,
+        -5.762723445892334,
+        3.9840879440307617
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 18583,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 18583,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5123,
+      "count": 71418,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 111768,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 111768,
+      "byteOffset": 111768
+    },
+    {
+      "buffer": 0,
+      "byteLength": 74512,
+      "byteOffset": 223536
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19080,
+      "byteOffset": 298048
+    },
+    {
+      "buffer": 0,
+      "byteLength": 134892,
+      "byteOffset": 317128
+    },
+    {
+      "buffer": 0,
+      "byteLength": 134892,
+      "byteOffset": 452020
+    },
+    {
+      "buffer": 0,
+      "byteLength": 89928,
+      "byteOffset": 586912
+    },
+    {
+      "buffer": 0,
+      "byteLength": 101388,
+      "byteOffset": 676840
+    },
+    {
+      "buffer": 0,
+      "byteLength": 222996,
+      "byteOffset": 778228
+    },
+    {
+      "buffer": 0,
+      "byteLength": 222996,
+      "byteOffset": 1001224
+    },
+    {
+      "buffer": 0,
+      "byteLength": 148664,
+      "byteOffset": 1224220
+    },
+    {
+      "buffer": 0,
+      "byteLength": 142836,
+      "byteOffset": 1372884
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "JE03296_data.bin",
+      "byteLength": 1515720
+    }
+  ]
+}
